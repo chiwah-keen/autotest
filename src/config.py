@@ -15,3 +15,7 @@ MYSQL_PASSWD = ""
 MYSQL_DATABASE = ""
 
 
+# project status here
+STATUS_SUCCESS = 0
+STATUS_NO_XPATH = 1
+
